@@ -1,0 +1,11 @@
+# Bazel
+bazel-*
+
+# Docs
+/.venv*
+/_build*
+docs/ubproject.toml
+
+# AI
+/.claude
+/.codex
